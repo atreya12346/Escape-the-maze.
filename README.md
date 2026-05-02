@@ -1,4 +1,4 @@
-              Escape The Maze — C Mini Project
+              Escape The Maze 
 
 Escape The Maze is a console-based maze navigation game developed in **C language** using **Data Structures and Algorithms** concepts such as **Stack** and **Breadth-First Search (BFS)**.
 
