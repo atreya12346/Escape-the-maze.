@@ -1,0 +1,11 @@
+
+Example symbols used:
+
+| Symbol | Meaning |
+|--------|---------|
+| S | Start |
+| E | Exit |
+| @ | Player |
+| # | Wall |
+| * | Visited path |
+| . | Open path |
